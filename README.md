@@ -13,7 +13,7 @@ This project includes a website and a backend for providing information related 
 
 ## Getting started
 
-Open `safarismart-tz.html` in a web browser to view the website.
+Open `safarismart-tz.html` in a web browser to view the website..
 
 ## Security
 
